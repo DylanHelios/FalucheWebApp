@@ -70,5 +70,11 @@
   {
     "title": "Aucune donnée",
     "description": "Il n’y a rien à afficher pour le moment."
+  },
+  "Error":
+  {
+      "unknown": "Une erreur inconnue est survenue",
+      "occurred": "Une erreur est survenue",
+      "retry": "Réessayer"
   }
 }

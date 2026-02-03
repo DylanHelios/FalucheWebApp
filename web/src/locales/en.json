@@ -70,5 +70,11 @@
   {
     "title": "No data available",
     "description": "There is nothing to display at the moment."
+  },
+  "Error":
+  {
+      "unknown": "An unknown error occurred",
+      "occurred": "An error occurred",
+      "retry": "Retry"
   }
 }
