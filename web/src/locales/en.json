@@ -1,14 +1,17 @@
 {
-  "sidebar": {
+  "sidebar": 
+  {
     "title": "The Faluche",
     "discover": "Discover",
-    "history": {
+    "history": 
+    {
       "label": "History of the faluche",
       "origins": "Origins",
       "evolution": "Evolution",
       "traditions": "Traditions"
     },
-    "insignes": {
+    "insignes": 
+    {
       "label": "Insignes",
       "autodecerne": "Self-awarded insignes",
       "circulaire": "Circular insignes",
@@ -16,26 +19,30 @@
       "elu": "Elected badge ribbon",
       "croix": "Cross insignes"
     },
-    "emblemes": {
+    "emblemes": 
+    {
       "label": "Emblems",
       "satin": "Satin Emblem",
       "velours": "Velvet Emblem",
       "autres": "Other emblems"
     },
-    "couleurs": {
+    "couleurs": 
+    {
       "label": "Field colors",
       "sciences": "Sciences",
       "lettres": "Liberal Arts",
       "commerce": "Commerce",
       "technique": "Technical"
     },
-    "potager": {
+    "potager": 
+    {
       "label": "The garden",
       "vue_ensemble": "Overview",
       "evenements": "Events",
       "galerie": "Gallery"
     },
-    "faluches": {
+    "faluches": 
+    {
       "label": "Different faluches",
       "lilloise": "Lilloise Faluches",
       "montpellieraines": "Montpellieraines Faluches",
@@ -44,17 +51,24 @@
       "marseillaise": "Marseillaise Faluches",
       "alsacienne": "Alsacian Faluches"
     },
-    "rubans": {
+    "rubans": 
+    {
       "label": "Ribbons",
       "couleurs": "Meaning of colors",
       "port": "How to wear a ribbon",
       "traditions": "Traditions"
     },
-    "armoiries": {
+    "armoiries": 
+    {
       "label": "Heraldry",
-      "historique": "History",
+      "historique": "History",  
       "blasons": "Coats of arms",
       "heraldiques": "Heraldic insignes"
     }
+  },  
+  "NoData":
+  {
+    "title": "No data available",
+    "description": "There is nothing to display at the moment."
   }
 }
