@@ -6,6 +6,7 @@ import "./i18n"
 import Layout from "./components/layout/Layout"
 import Home from "./pages/home/Home"
 import InsignesCirculaire from "./pages/insignes/circulaire/InsigneCirculaire"
+import InsignesAutodecerne from "./pages/insignes/autodecerne/InsigneAutodecerne"
 
 export default function App() {
   return (
@@ -16,6 +17,7 @@ export default function App() {
             <Route element={<Layout />}>
               <Route path="/" element={<Home />} />
               <Route path="/insignes/circulaire" element={<InsignesCirculaire />} />
+              <Route path="/insignes/autodecerne" element={<InsignesAutodecerne />} />
             </Route>
           </Routes>
         </BrowserRouter>
