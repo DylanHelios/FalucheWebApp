@@ -1,13 +1,12 @@
-from neo4j_db.RequeteNeo4J import run_query
 from fastapi import APIRouter
-
+from database.dbNeo4J import neo4jDB
 
 router = APIRouter(
-    prefix="/insignes",
+    prefix="/api/insignes",
     tags=["Insignes"]
 )
 
-@router.get("/circulaire/{provenance}")
+@router.get("/{provenance}")
 def get_insignes(provenance: str):
     query = """
     MATCH (n:Insigne)-[r]->(m)
@@ -15,5 +14,5 @@ def get_insignes(provenance: str):
     RETURN n, type(r) AS relation, m
     """
 
-    results = run_query(query, {"provenance": provenance})
+    results = neo4jDB.run_query(query, {"provenance": provenance})
     return results

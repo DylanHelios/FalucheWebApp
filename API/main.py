@@ -1,4 +1,4 @@
-from neo4j_db.ConnectionNeo4J import ConnectionNeo4j
+from database.ConnectionNeo4J import ConnectionNeo4j
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from routes.Insigne import router as insignes_router

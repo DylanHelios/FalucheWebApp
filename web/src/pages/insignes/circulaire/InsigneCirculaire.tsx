@@ -1,71 +1,10 @@
-import { useEffect, useState } from "react"
 import { useTranslation } from "react-i18next"
-import type { Insigne } from "@/types/Insigne"
-import type { ApiItem } from "@/types/ApiItem"
 import InsigneCard from "@/components/insigne-card"
-
-// Prefer using an env var so the API host is configurable in dev/prod
-const API_BASE_URL = (import.meta as any).env?.VITE_API_BASE_URL ??
-  "http://127.0.0.1:8000"
+import { useInsignes } from "@/pages/insignes/useInsignes"
 
 export default function InsignesCirculaire() {
   const { t } = useTranslation()
-  const [insignes, setInsignes] = useState<Insigne[]>([])
-  const [loading, setLoading] = useState(true)
-  const [error, setError] = useState<string | null>(null)
-
-  useEffect(() => {
-    const controller = new AbortController()
-    const fetchInsignes = async () => {
-      try {
-        const response = await fetch(
-          `${API_BASE_URL}/insignes/circulaire/Circulaire`,
-          { signal: controller.signal }
-        )
-
-        if (!response.ok) {
-          throw new Error(`Erreur API: ${response.status}`)
-        }
-
-        const data: ApiItem[] = await response.json()
-        const map = new Map<string, Insigne>()
-
-        data.forEach((item) => {
-          const key = item.n.name
-
-          if (!map.has(key)) {
-            map.set(key, {
-              name: item.n.name,
-              provenance: item.n.provenance,
-            })
-          }
-
-          const current = map.get(key)!
-
-          if (item.relation === "a_pour_image" && item.m?.data) {
-            current.image = `data:image/png;base64,${item.m.data}`
-          }
-
-          if (item.relation === "signifie" && item.m?.description) {
-            current.description = item.m.description
-          }
-        })
-
-        setInsignes(Array.from(map.values()))
-      } catch (err) {
-        if (err instanceof DOMException && err.name === "AbortError") {
-          return
-        }
-        setError(err instanceof Error ? err.message : "Une erreur est survenue")
-      } finally {
-        setLoading(false)
-      }
-    }
-    fetchInsignes()
-
-    // Cleanup: abort fetch if component unmounts
-    return () => controller.abort()
-  }, [])
+  const { insignes, loading, error } = useInsignes("Circulaire")
 
   if (loading) {
     return (
