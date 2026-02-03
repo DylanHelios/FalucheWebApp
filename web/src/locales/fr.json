@@ -1,14 +1,17 @@
 {
-  "sidebar": {
+  "sidebar": 
+  {
     "title": "La Faluche",
     "discover": "Découvrir",
-    "history": {
+    "history": 
+    {
       "label": "Histoire de la faluche",
       "origins": "Origines",
       "evolution": "Évolution",
       "traditions": "Traditions"
     },
-    "insignes": {
+    "insignes": 
+    {
       "label": "Insignes",
       "autodecerne": "Insignes autodécernés",
       "circulaire": "Insignes circulaires",
@@ -16,26 +19,30 @@
       "elu": "Insignes ruban d'élu",
       "croix": "Insignes croix"
     },
-    "emblemes": {
+    "emblemes": 
+    {
       "label": "Emblèmes",
       "satin": "Emblème Satin",
       "velours": "Emblème Velours",
       "autres": "Autres emblèmes"
     },
-    "couleurs": {
+    "couleurs": 
+    {
       "label": "Couleurs de filières",
       "sciences": "Sciences",
       "lettres": "Lettres",
       "commerce": "Commerce",
       "technique": "Technique"
     },
-    "potager": {
+    "potager": 
+    {
       "label": "Le potager",
       "vue_ensemble": "Vue d'ensemble",
       "evenements": "Événements",
       "galerie": "Galerie"
     },
-    "faluches": {
+    "faluches": 
+    {
       "label": "Différentes faluches",
       "lilloise": "Faluches Lilloise",
       "montpellieraines": "Faluches Montpellieraines",
@@ -44,17 +51,24 @@
       "marseillaise": "Faluches Marseillaise",
       "alsacienne": "Faluches Alsacienne"
     },
-    "rubans": {
+    "rubans": 
+    {
       "label": "Rubans",
       "couleurs": "Signification des couleurs",
       "port": "Port du ruban",
       "traditions": "Traditions"
     },
-    "armoiries": {
+    "armoiries": 
+    {
       "label": "Armoiries",
       "historique": "Historique",
       "blasons": "Blasons",
       "heraldiques": "Insignes héraldiques"
     }
+  },
+  "NoData":
+  {
+    "title": "Aucune donnée",
+    "description": "Il n’y a rien à afficher pour le moment."
   }
 }

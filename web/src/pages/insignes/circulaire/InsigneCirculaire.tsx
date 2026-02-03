@@ -2,6 +2,7 @@ import { useTranslation } from "react-i18next"
 import InsigneCard from "@/components/insigne-card"
 import { useInsignes } from "@/pages/insignes/useInsignes"
 import InsignesSkeletonPage from "@/components/skeleton/insigne-page-skeleton"
+import { NoDataCard } from "@/components/no-data-card"
 
 export default function InsignesCirculaire() {
   const { t } = useTranslation()
@@ -21,15 +22,8 @@ export default function InsignesCirculaire() {
     )
   }
 
-  if (insignes.length === 0) {
-    return (
-      <div className="p-6">
-        <div className="rounded-lg border border-yellow-200 bg-yellow-50 p-4 text-yellow-700">
-          <p>Aucun insigne trouvé.</p>
-        </div>
-      </div>
-    )
-  }
+  if (insignes.length === 0)
+    return <NoDataCard />
 
   return (
     <div className="p-6">
