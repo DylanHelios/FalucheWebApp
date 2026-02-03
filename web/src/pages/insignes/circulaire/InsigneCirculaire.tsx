@@ -1,18 +1,14 @@
 import { useTranslation } from "react-i18next"
 import InsigneCard from "@/components/insigne-card"
 import { useInsignes } from "@/pages/insignes/useInsignes"
+import InsignesSkeletonPage from "@/components/skeleton/insigne-page-skeleton"
 
 export default function InsignesCirculaire() {
   const { t } = useTranslation()
   const { insignes, loading, error } = useInsignes("Circulaire")
 
-  if (loading) {
-    return (
-      <div className="p-6 flex items-center justify-center min-h-screen">
-        <div className="text-muted-foreground">Chargement…</div>
-      </div>
-    )
-  }
+  if (loading) 
+    return <InsignesSkeletonPage />
 
   if (error) {
     return (
