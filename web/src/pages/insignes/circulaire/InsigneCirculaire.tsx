@@ -3,6 +3,7 @@ import InsigneCard from "@/components/insigne-card"
 import { useInsignes } from "@/pages/insignes/useInsignes"
 import InsignesSkeletonPage from "@/components/skeleton/insigne-page-skeleton"
 import { NoDataCard } from "@/components/no-data-card"
+import { ErrorCard } from "@/components/error-card"
 
 export default function InsignesCirculaire() {
   const { t } = useTranslation()
@@ -11,16 +12,8 @@ export default function InsignesCirculaire() {
   if (loading) 
     return <InsignesSkeletonPage />
 
-  if (error) {
-    return (
-      <div className="p-6">
-        <div className="rounded-lg border border-red-200 bg-red-50 p-4 text-red-700">
-          <h3 className="font-semibold mb-2">Erreur de chargement</h3>
-          <p className="text-sm">{error}</p>
-        </div>
-      </div>
-    )
-  }
+  if (error)
+    return <ErrorCard error={error} />
 
   if (insignes.length === 0)
     return <NoDataCard />
