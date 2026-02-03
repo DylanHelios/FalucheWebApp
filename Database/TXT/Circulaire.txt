@@ -1,0 +1,53 @@
+Chirurgie dentaire;Violet;Velour;Molaire;images/Emblème_Velour/Chirurgie dentaire.png
+Etudes courtes de santé;Blanc;Velour;Squelette;images/Emblème_Velour/Etudes courtes de santé.png
+Infirmier;Rose;Velour;Caducée infirmier;images/Emblème_Velour/Infirmier.png
+Kiné;Rose;Velour;Caducée de Mercure;images/Emblème_Velour/Kiné.png
+LAS;Marron;Velour;Emblème de la discipline majoritaire;None
+Médecine;Rouge;Velour;Caducée médecine;images/Emblème_Velour/Médecine.png
+Ostéopathie;Bleu roy;Velour;Sphénoïde;images/Emblème_Velour/Ostéopathie.png
+Paramédical;Rose;Velour;Ciseaux;images/Emblème_Velour/Paramédical.png
+Pharmacie;Vert;Velour;Caducée de pharmacie;images/Emblème_Velour/Pharmacie.png
+Préparateur en pharmacie;Vert;Velour;Mortier et Pilon;images/Emblème_Velour/Préparateur en pharmacie.png
+PACES / PASS;Marron;Velour;Tête de mort sur fémurs croisés;images/Emblème_Velour/PACES-PASS.png
+Sage-femme;Fuchsia;Velour;Croix d'Ânkh;images/Emblème_Velour/Sage-femme.png
+Vétérinaire;Bordeaux;Velour;Tête de cheval;images/Emblème_Velour/Vétérinaire.png
+DU;Blanc;Satin;Lettres « DU »;images/Emblème_Satin/Lettres « DU ».png
+Administration Economique et Sociale (AES);Vert clair;Satin;Lettres « AES »;images/Emblème_Satin/Lettres « AES ».png
+Architecture;Bleu;Satin;Equerre & Compas;images/Emblème_Satin/Architecture.png
+Arts du spectacle;Bleu;Satin;Masque de comédie;images/Emblème_Satin/Arts du spectacle.png
+Arts numériques;Bleu;Satin;@;images/Emblème_Satin/Arts numériques.png
+Audiovisuel;Bleu;Satin;Clap de cinéma;images/Emblème_Satin/Audiovisuel.png
+Beaux-Arts;Bleu;Satin;Palette & Pinceau;images/Emblème_Satin/Beaux-arts , Arts plastiques.png
+Arts plastiques;Bleu;Satin;Palette & Pinceau;images/Emblème_Satin/Beaux-arts , Arts plastiques.png
+BUT;Blanc;Satin;Lettres « BUT »;images/Emblème_Satin/Lettres « BUT ».png
+DUT;Blanc;Satin;Lettres « DUT »;images/Emblème_Satin/Lettres « DUT ».png
+BTS;Blanc;Satin;Lettres « BTS »;images/Emblème_Satin/Lettres « BTS ».png
+Bachelor;Blanc;Satin;Bêta;images/Emblème_Satin/Bachelor.png
+Classes préparatoires;Marron;Satin;Chouette bicéphale;images/Emblème_Satin/Classes préparatoires.png
+Communication;Suivant l'UFR de rattachement;Satin;Caducée de Mercure;images/Emblème_Satin/Communication.png
+Droit;Rouge;Satin;Glaive & Balance;images/Emblème_Satin/Droit.png
+Ecoles de commerce, Gestion, Communication, Journalisme;Rouge et vert;Satin;Caducée de Mercure;images/Emblème_Satin/Ecoles de commerce,  gestion, communication,  journalisme .png
+Ecoles d'ingénieurs;Bleu et noir;Satin;Etoile & Foudre;images/Emblème_Satin/Ecoles d'ingénieurs.png
+Ecoles nationales;Aux couleurs du drapeau du pays de l'école;Satin;Initiales de l'école;None
+Filières sportives;Vert foncé;Satin;Coq;images/Emblème_Satin/Filières sportives.png
+Géographie;Jaune;Satin;Globe;images/Emblème_Satin/Géographie.png
+Histoire;Jaune;Satin;Casque de Périclès;images/Emblème_Satin/Histoire.png
+Histoire de l'art;Jaune;Satin;Tête de sphinx;images/Emblème_Satin/Histoire de l'art , Archéologie.png
+Archéologie;Jaune;Satin;Tête de sphinx;images/Emblème_Satin/Histoire de l'art , Archéologie.png
+IAE;Blanc;Satin;Lettres « IAE »;images/Emblème_Satin/Lettres « IAE ».png
+IUP;Blanc;Satin;Lettres « IUP »;images/Emblème_Satin/Lettres « IUP ».png
+IUT;Blanc;Satin;Lettres « IUT »;images/Emblème_Satin/Lettres « IUT ».png
+Lettres;Jaune;Satin;Livre ouvert & Plume;images/Emblème_Satin/Lettres.png
+Langues;Jaune;Satin;Livre ouvert & Plume;images/Emblème_Satin/Langues.png
+Sciences Humaines et Sciences Sociales;Jaune;Satin;Initiales de la discipline;None
+Musique;Argenté;Satin;Lyre;images/Emblème_Satin/Musique, Musicologie .png
+Musicologie;Argenté;Satin;Lyre;images/Emblème_Satin/Musique, Musicologie .png
+Œnologie;Saumon;Satin;Grappe de raisin;images/Emblème_Satin/Oenologie.png
+Philosophie;Jaune;Satin;Phi;images/Emblème_Satin/Philosophie.png
+Psychologie;Jaune;Satin;Psy;images/Emblème_Satin/Psychologie.png
+Sciences;Violet;Satin;Palmes croisées de chêne & de laurier + initiale(s) de la discipline;images/Emblème_Satin/Sciences.png
+Sciences économiques;Orange;Satin;Caducée de Mercure;images/Emblème_Satin/Sciences économiques , Gestion.png
+Gestion;Orange;Satin;Caducée de Mercure;images/Emblème_Satin/Sciences économiques , Gestion.png
+Sciences Politiques;Rouge et bleu;Satin;Parapluie;images/Emblème_Satin/Sciences politiques.png
+Sociologie;Jaune;Satin;Grenouille;images/Emblème_Satin/Sociologie.png
+Théologie;Blanc et rouge;Emblème de la religion ou lettres TH;None

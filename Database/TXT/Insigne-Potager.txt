@@ -1,0 +1,5 @@
+Insigne;Signification;Lien
+Betterave;Cunnilingus;images/Insigne/Insigne Potager/Bettrave.png
+Carotte;signe de son acte valeureux et digne du grand baisouillard qu'il est;images/Insigne/Insigne Potager/Carotte.png
+Navet;Sodomie;images/Insigne/Insigne Potager/Navet.png
+Poireau;Pipe dûment accomplie;images/Insigne/Insigne Potager/Poireau.png

@@ -1,0 +1,60 @@
+{
+  "sidebar": {
+    "title": "La Faluche",
+    "discover": "Découvrir",
+    "history": {
+      "label": "Histoire de la faluche",
+      "origins": "Origines",
+      "evolution": "Évolution",
+      "traditions": "Traditions"
+    },
+    "insignes": {
+      "label": "Insignes",
+      "autodecerne": "Insignes autodécernés",
+      "circulaire": "Insignes circulaires",
+      "partenaire": "Insignes partenaires",
+      "elu": "Insignes ruban d'élu",
+      "croix": "Insignes croix"
+    },
+    "emblemes": {
+      "label": "Emblèmes",
+      "satin": "Emblème Satin",
+      "velours": "Emblème Velours",
+      "autres": "Autres emblèmes"
+    },
+    "couleurs": {
+      "label": "Couleurs de filières",
+      "sciences": "Sciences",
+      "lettres": "Lettres",
+      "commerce": "Commerce",
+      "technique": "Technique"
+    },
+    "potager": {
+      "label": "Le potager",
+      "vue_ensemble": "Vue d'ensemble",
+      "evenements": "Événements",
+      "galerie": "Galerie"
+    },
+    "faluches": {
+      "label": "Différentes faluches",
+      "lilloise": "Faluches Lilloise",
+      "montpellieraines": "Faluches Montpellieraines",
+      "perpignanaise": "Faluches Perpignanaise",
+      "tourangelle": "Faluches Tourangelle",
+      "marseillaise": "Faluches Marseillaise",
+      "alsacienne": "Faluches Alsacienne"
+    },
+    "rubans": {
+      "label": "Rubans",
+      "couleurs": "Signification des couleurs",
+      "port": "Port du ruban",
+      "traditions": "Traditions"
+    },
+    "armoiries": {
+      "label": "Armoiries",
+      "historique": "Historique",
+      "blasons": "Blasons",
+      "heraldiques": "Insignes héraldiques"
+    }
+  }
+}

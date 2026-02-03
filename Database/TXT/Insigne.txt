@@ -1,0 +1,171 @@
+Baccalauréat;Insigne
+Bac L;Phi
+Bac S;Epsilon
+Bac S spé SVT;Phi – Epsilon
+Bac ES;Bêta
+Baccalauréat ou équivalent;Insigne
+Bac général;Gamma
+Bac international;Lettre « I » après le bac principal
+Autres bacs;Lettres ou initiales correspondantes
+Capacitaire;Lettre « C »
+DAEU;Lettres « DAEU »
+Les filières Velours;Les filières Velours
+Filière;Emblème de la discipline
+Chirurgie dentaire;Molaire
+Etudes courtes de santé;Squelette
+Infirmier;Caducée infirmier
+Kiné;Caducée de Mercure
+LAS;Emblème de la discipline majoritaire
+Médecine;Caducée médecine
+Ostéopathie;Sphénoïde
+Paramédical;Ciseaux
+Pharmacie;Caducée de pharmacie
+Préparateur en pharmacie;Mortier et Pilon
+PACES / PASS;Tête de mort sur fémurs croisés
+Sage-femme;Croix d’Ânkh
+Vétérinaire;Tête de cheval
+DU;Lettres « DU »
+Les filières Satins;Les filières Satins
+Filière;Emblème de la discipline
+Administration Economique et Sociale (AES);Lettres « AES »
+Architecture;Equerre & Compas
+Arts du spectacle;Masque de comédie
+Arts numériques;@
+Audiovisuel;Clap de cinéma
+Beaux-arts;Palette & Pinceau
+Arts plastiques;Palette & Pinceau
+Bachelor;Bêta
+BTS;Lettres « BTS »
+BUT;Lettres « BUT »
+Classes préparatoires;Chouette bicéphale
+Communication;Caducée de Mercure
+Droit;Glaive & Balance
+DUT;Lettres « DUT »
+Ecoles de commerce;Caducée de Mercure
+gestion;Caducée de Mercure
+communication;Caducée de Mercure
+journalisme;Caducée de Mercure
+Ecoles de commerce;Caducée de Mercure
+gestion;Caducée de Mercure
+communication;Caducée de Mercure
+journalisme;Caducée de Mercure
+Ecoles d’ingénieurs;Etoile & Foudre
+Ecoles d’ingénieurs;Etoile & Foudre
+Ecoles nationales;Initiales de l’école
+Filières sportives;Coq
+Géographie;Globe
+Histoire;Casque de Périclès
+Histoire de l’art;Tête de sphinx
+Archéologie;Tête de sphinx
+IAE;Lettres « IAE »
+IUP;Lettres « IUP »
+Langues;Livre ouvert & Plume
+Lettres;Livre ouvert & Plume
+MEEF;Plume
+Musique;Lyre
+Musicologie;Lyre
+Œnologie;Grappe de raisin
+Philosophie;Phi
+Psychologie;Psy
+Sciences;Palmes croisées de chêne & de laurier + initiale(s) de la discipline
+Sciences économiques;Caducée de Mercure
+Gestion;Caducée de Mercure
+Sciences politiques;Parapluie
+Sciences Sociales (Sciences du Langage;Initiales de la discipline
+Sciences de l’Education;Initiales de la discipline etc…);Initiales de la discipline
+Sociologie;Grenouille
+Etoile dorée;Année d’études commencée1
+Etoile dorée sur moivre bleu;Première année d’études commencée dans un établissement/faculté public/d’Etat
+Etoile dorée sur moivre blanc;Première année d’études commencée dans un établissement/école/institut privé ou faculté catholique2
+Etoiledorée/argentée sur moivre noir;Perte ou vol de la faluche
+Large palme;Major de promotion
+Etoile argentée;Année redoublée, 5/2, 7/2
+Zéro;Année blanche et/ou sabbatique et/ou année de césure (pour ne pas les confondre avec le redoublement)
+Simple palme;Fin de cycle non diplômant
+Double palme croisée de lauriers;Obtention de diplôme
+Tête de vache;Année obtenue aux rattrapages
+Tête de mort;Echec ou abandon de la discipline OU réorientation d’une discipline
+« E »;Année obtenue par équivalence
+« A »;Année en alternance
+Drapeau de pays;Année/partie de l’année d’étude effectuée à l’étranger
+Quille;Service militaire OU service civique
+Abeille;Cursus exemplaire
+Appareil photo;Amour de la photographie
+Bacchus troué;Personne abstème
+Chameau;A l’endroit : Célibataire
+Chameau;A l’envers : Cœur pris dans l’antichambre du mariage
+Chope de bière;Amour de la bonne bière
+Chouette;Oiseau de nuit
+Casque de Périclès;Amour de l’Histoire
+Cochon;A l’endroit : N’a pas été intégré
+Cochon;A l’envers : A été intégré
+Epervier;Amour des grands espaces
+Epi de blé;Radin
+Epi de blé croisé faucille;Chanceux aux examens
+Etoile & Foudre;Amour des nouvelles technologies, de l’informatique et/ou des sciences
+Fer à cheval;Chanceux
+Feuille de vigne;Perte de la virginité
+Fourchette;Amour des plaisirs de la table
+Globe;Amour de la géographie
+Grappe de raisin;Amour du bon vin
+Lyre;Amour des arts musicaux
+Masque de comédie;Amour des arts de la scène et du cinéma
+Nounours;Gros dormeur
+Palette vernie;Amour des arts plastiques
+Pendu;Marié(e) ou pacsé(e)
+Plume;Amour des arts littéraires
+Sphinx;Polyglotte (Langue des signes incluse)
+Epée;Fin baiseur
+Flèche;Ejaculateur précoce
+Lime;Acte laborieux et difficile
+Pensée;Experte / Fine baiseuse
+Anneaux olympiques;Excellence sportive universitaire
+Bacchus;Dignité dans l’ivresse
+Bouteille de Bordeaux;Cuite certifiée
+Bouteille de Champagne;Coma éthylique certifié
+Clef de sol;Digne chanteur de paillardes
+Coq;Grande gueule sachant l’ouvrir
+Cor de chasse;Grand charmeur devant l’éternel
+Entonnoir;BT imposé
+Fourchette sur ruban bleu;Cordon-bleu
+Hache;Prise de guerre (acte exceptionnel sans vandalisme)
+Lime;Insulte à croix
+Mammouth;Gardien des traditions
+Pachyderme (Pachy);Personne lourde
+Parapluie fermé;A vomi dans sa faluche
+Parapluie ouvert;A vomi dans sa
+faluche et l’a remise sur sa tête
+Poule;Personne très chaude
+Singe;Quémandeur d’insigne
+Sou troué;Nuit passé au poste pour motif estudiantin
+Tortue;Grand hébergeur
+Volant;Conducteur de fin de soirée
+Abeille;Travail et minutie associative
+Ane;Berrichon
+Chardon;Lorrain
+Cigale;Provençal
+Cigogne;Alsacien
+Croix camarguaise;Camarguais
+Croix occitane;Occitan
+Hermine (ou pic d’hermine);Breton
+Houe;Limousin
+Lion héraldique;Lyonnais(e)
+Lion passant;Normand(e)
+Sabot;Breton monté à Paris pour ses études
+Sacré-Cœur;Vendéen
+Sanglier;Ardennais
+Soulier catalan;Catalan
+Taste-vin;Bourguignon(ne)
+Tête de Maure;Corse
+Grenouille argentée;Elu au conseil d’UFR
+Grenouille dorée;Elu au Conseil d’Université
+Tortue argentée;Elu CROUS
+Tortue dorée;Elu CNOUS
+Etoile argentée;Vice-Président étudiant d’UFR ou de CA d’IUT
+Etoile dorée;Vice-Président Etudiant d’Université
+Etoile dorée sur moivre rouge;VPE CROUS
+Glaive & Balance;Elu au Conseil Disciplinaire
+Carotte;Signe de son acte valeureux et digne du grand baisouillard qu’il est
+Poireau;Pipe dûment accomplie
+Navet;Enculage
+Betterave;Cunnilingus

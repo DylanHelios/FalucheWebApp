@@ -1,0 +1,21 @@
+Insigne;Signification;A Noter;Lien
+Anneaux olympiques;Excellence sportive universitaire;;images/Insigne/Insigne Decerne/Anneaux olympiques.png
+Bacchus;Dignité dans l’ivresse;Retournable et retirable;images/Insigne/Insigne Decerne/Bacchus.png
+Bouteille de Bordeaux;Cuite certifiée;Blâme Possibilité de coefficient multiplicateur si récidive;images/Insigne/Insigne Decerne/Bouteille de Bordeaux.png
+Bouteille de Champagne;Coma éthylique certifié;Blâme;images/Insigne/Insigne Decerne/Bouteille de Champagne.png
+Clef de sol;Digne chanteur de paillardes;Honorifique;images/Insigne/Insigne Decerne/Clef de sol.png
+Coq;Grande gueule sachant l’ouvrir;;images/Insigne/Insigne Decerne/Coq.png
+Cor de chasse;Grand charmeur devant l’éternel;;images/Insigne/Insigne Decerne/Cor de chasse.png
+Entonnoir;BT imposé;;images/Insigne/Insigne Decerne/Entonnoir.png
+Fourchette sur ruban bleu;Cordon-bleu;Honorifique;images/Insigne/Insigne Decerne/Fourchette sur ruban bleu.png
+Hache;Prise de guerre (acte exceptionnel sans vandalisme);;images/Insigne/Insigne Decerne/Hache.png
+Lime;Insulte à croix;Blâme;images/Insigne/Insigne Decerne/Lime.png
+Mammouth;Gardien des traditions;Honorifique;images/Insigne/Insigne Decerne/Mammouth.png
+Pachyderme (Pachy);Personne lourde;Blâme;images/Insigne/Insigne Decerne/Pachyderme.png
+Parapluie fermé;A vomi dans sa faluche;Blâme;images/Insigne/Insigne Decerne/Parapluie fermé.png
+Parapluie ouvert;A vomi dans sa faluche et l’a remise sur sa tête;Blâme;images/Insigne/Insigne Decerne/Parapluie ouvert.png
+Poule;Personne très chaude;;images/Insigne/Insigne Decerne/Poule.png
+Singe;Quémandeur d’insigne;Blâme Empêche de recevoir tout autre insigne;images/Insigne/Insigne Decerne/Singe.png
+Sou troué;Nuit passé au poste pour motif estudiantin;;images/Insigne/Insigne Decerne/Sou troué.png
+Tortue;Grand hébergeur;;images/Insigne/Insigne Decerne/Tortue.png
+Volant;Conducteur de fin de soirée;;images/Insigne/Insigne Decerne/Volant.png

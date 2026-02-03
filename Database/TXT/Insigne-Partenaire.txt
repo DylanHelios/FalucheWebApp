@@ -1,0 +1,5 @@
+Insigne;Signification;Lien
+Epée;Fin baiseur;images/Insigne/Insigne Decerne Partenaire/Epée.png
+Flèche;Ejaculateur précoce;images/Insigne/Insigne Decerne Partenaire/Flèche.png
+Lime;Acte laborieux et difficile;images/Insigne/Insigne Decerne Partenaire/Lime.png
+Pensée;Fin baiseur;images/Insigne/Insigne Decerne Partenaire/Pensée.png

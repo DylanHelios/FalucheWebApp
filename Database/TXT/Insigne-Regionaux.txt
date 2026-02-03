@@ -1,0 +1,16 @@
+Insigne;Signification;Lien
+Ane;Berrichon;images/Insigne/Insigne Régionaux/Ane.png
+Chardon;Lorrain;images/Insigne/Insigne Régionaux/Chardon.png
+Cigale;Provençal;images/Insigne/Insigne Régionaux/Cigale.jpeg
+Cigogne;Alsacien;images/Insigne/Insigne Régionaux/Cigogne.png
+Croix camarguaise;Camarguais;images/Insigne/Insigne Régionaux/Croix camarguaise.jpeg
+Croix occitane;Occitan;images/Insigne/Insigne Régionaux/Croix occitane.jpeg
+Hermine;Breton;images/Insigne/Insigne Régionaux/Hermine.png
+Houe;Limousin;images/Insigne/Insigne Régionaux/Houe.png
+Lion héraldique;Lyonnais;images/Insigne/Insigne Régionaux/Lion héraldique.png
+Lion passant;Normand;images/Insigne/Insigne Régionaux/Lion passant.jpeg
+Sabot;Breton monté à Paris pour ses études;images/Insigne/Insigne Régionaux/Sabot.png
+Sacré-Coeur;Vendéen;images/Insigne/Insigne Régionaux/Sacré-Coeur.jpeg
+Sanglier;Ardennais;images/Insigne/Insigne Régionaux/Sanglier.png
+Taste-vin;Bourguignon;images/Insigne/Insigne Régionaux/Taste-vin.png
+Tête de Maure;Corse;images/Insigne/Insigne Régionaux/Tête de Maure.jpeg

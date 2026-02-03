@@ -1,0 +1,26 @@
+Insigne;Signification;Lien
+Appareil photo;Amour de la photographie;images/Insigne/Insigne Autodecerne/Appareil photo.png
+Bacchus troué;Personne abstème;images/Insigne/Insigne Autodecerne/Bacchus troué.png
+Chameau à l'endroit;Célibataire;images/Insigne/Insigne Autodecerne/Chameau à l'endroit.png
+Chameau à envers;Cœur pris dans l’antichambre du mariage;images/Insigne/Insigne Autodecerne/Chameau à l'envers.png
+Chope de bière;Amour de la bonne bière;images/Insigne/Insigne Autodecerne/Chope de bière.png
+Chouette;Oiseau de nuit;images/Insigne/Insigne Autodecerne/Chouette.png
+Casque de Périclès;Amour de l’Histoire;images/Insigne/Insigne Autodecerne/Casque de Périclès.png
+Cochon à l'endroit;N’a pas été intégré;images/Insigne/Insigne Autodecerne/Cochon à l'endroit.png
+Cochon à envers;A été intégré;images/Insigne/Insigne Autodecerne/Cochon à l'envers.png
+Epervier;Amour des grands espaces;images/Insigne/Insigne Autodecerne/Epervier.png
+Epi de blé;Radin;images/Insigne/Insigne Autodecerne/Epi de blé.png
+Epi de blé croisé faucille;Chanceux aux examens;images/Insigne/Insigne Autodecerne/Epi de blé croisé faucille.png
+Etoile & Foudre;Amour des nouvelles technologies, de l’informatique et/ou des sciences;images/Insigne/Insigne Autodecerne/Etoile & Foudre.png
+Fer à cheval;Chanceux;images/Insigne/Insigne Autodecerne/Fer à cheval.png
+Feuille de vigne;Perte de la virginité;images/Insigne/Insigne Autodecerne/Feuille de vigne.png
+Fourchette;Amour des plaisirs de la table;images/Insigne/Insigne Autodecerne/Fourchette.png
+Globe;Amour de la géographie;images/Insigne/Insigne Autodecerne/Globe.png
+Grappe de raisin;Amour du bon vin;images/Insigne/Insigne Autodecerne/Grappe de raisin.png
+Lyre;Amour des arts musicaux;images/Insigne/Insigne Autodecerne/Lyre.png
+Masque de comédie;Amour des arts de la scène et du cinéma;images/Insigne/Insigne Autodecerne/Masque de comédie.png
+Nounours;Gros dormeur;images/Insigne/Insigne Autodecerne/Nounours.png
+Palette vernie;Amour des arts plastiques;images/Insigne/Insigne Autodecerne/Palette vernie.png
+Pendu;Marié(e) ou pacsé(e);images/Insigne/Insigne Autodecerne/Pendu.png
+Plume;Amour des arts littéraires;images/Insigne/Insigne Autodecerne/Plume.png
+Sphinx;Polyglotte (Langue des signes incluse);images/Insigne/Insigne Autodecerne/Sphinx.png

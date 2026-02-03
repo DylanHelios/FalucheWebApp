@@ -1,0 +1,18 @@
+Insigne;Signification;Positionnement;lien
+Etoile dorée;Année d’études commencée;;images/Insigne/Insigne Circulaire/Etoile dorée.png
+Etoile dorée sur moivre bleu;Première année d’études commencée dans un établissement/faculté public/d’Etat;Première étoile du cursus positionnée sur le moivre disposé de biais;images/Insigne/Insigne Circulaire/Etoile dorée sur moivre bleu.png
+Etoile dorée sur moivre blanc;Première année d’études commencée dans un établissement/école/institut privé ou faculté catholique;Première étoile du cursus positionnée sur le moivre disposé de biais;images/Insigne/Insigne Circulaire/Etoile dorée sur moivre blanc.png
+Etoile dorée ou argentée sur moivre noir;Perte ou vol de la faluche;Etoile de l’année de la perte/du vol positionnée sur le moivre de biais;images/Insigne/Insigne Circulaire/Etoile dorée argentée sur moivre noir.png
+Large palme;Major de promotion;Placée à côté de l’étoile de l’année et/ou des palmes de diplôme;images/Insigne/Insigne Circulaire/Large palme.png
+Etoile argentée;Année redoublée, 5/2, 7/2;;images/Insigne/Insigne Circulaire/Etoile argentée.png
+Zéro;Année blanche et/ou sabbatique et/ou année de césure (pour ne pas les confondre avec le redoublement);;images/Insigne/Insigne Circulaire/Zéro.png
+Simple palme;Fin de cycle non diplômant;Se place après l’étoile de fin du cycle;images/Insigne/Insigne Circulaire/Simple palme.png
+Double palme croisée de lauriers;Obtention de diplôme;Se place après l’étoile de la dernière année du cursus diplômant (DEUG, DUT, BTS, licence, maitrise, DU, DE, …);images/Insigne/Insigne Circulaire/Double palme croisée de lauriers.png
+Tête de vache;Année obtenue aux rattrapages;Se place à côté de l’étoile de l’année correspondante;images/Insigne/Insigne Circulaire/Tête de vache.png
+Tête de mort;Echec ou abandon de la discipline OU réorientation d’une discipline;Se place à côté de l’étoile de l’année correspondante;images/Insigne/Insigne Circulaire/Tête de mort.png
+« E »;Année obtenue par équivalence;En remplacement de l’étoile correspondante;images/Insigne/Insigne Circulaire/Equivalence.png
+« A »;Année en alternance;En remplacement de l’étoile correspondante;images/Insigne/Insigne Circulaire/Alternance.png
+Drapeau de pays;Année/partie de l’année d’étude effectuée à l’étranger;Se place en dessous de l’étoile correspondante;images/Insigne/Insigne Circulaire/Drapeau de pays.png
+Quille;Service militaire OU service civique;Pendra du ruban à l’endroit du cursus où aura été effectué le service;images/Insigne/Insigne Circulaire/Quille.png
+Abeille;Cursus exemplaire;Se place à la fin du cursus;images/Insigne/Insigne Circulaire/Abeille.png
+

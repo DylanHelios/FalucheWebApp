@@ -1,0 +1,9 @@
+Insigne;Signification;Lien
+Etoile argentée;VPE UFR ou CA IUT,BTS ;images/Insigne/Insigne Elu/Etoile argentée.png
+Etoile dorée;VPE université;images/Insigne/Insigne Elu/Etoile dorée.png
+Etoile dorée sur moivre rouge; VPE CROUS:None
+Glaive & Balance;Conseil disciplinaire;images/Insigne/Insigne Elu/Glaive & Balance.png
+Grenouille argentée;Elu conseil UFR;images/Insigne/Insigne Elu/Grenouille argentée.png
+Grenouille dorée;Elu conseil d'université/centraux;images/Insigne/Insigne Elu/Grenouille dorée.png
+Tortue argentée;Elu CROUS;images/Insigne/Insigne Elu/Tortue argentée.png
+Tortue dorée;Elu CNOUS;images/Insigne/Insigne Elu/Tortue dorée.png
