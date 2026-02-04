@@ -13,6 +13,7 @@ import InsignesPartenaire from "./pages/insignes/partenaire/InsignePartenaire"
 import InsignesElu from "./pages/insignes/élu/InsignesElu"
 
 import EmblemeSatin from "./pages/emblèmes/satin/EmblemeSatin"
+import EmblemeVelour from "./pages/emblèmes/velour/EmblemeVelour"
 
 export default function App() {
   return (
@@ -30,6 +31,7 @@ export default function App() {
               <Route path="/insignes/elu" element={<InsignesElu />} />
 
               <Route path="/emblemes/satin" element={<EmblemeSatin />} />
+              <Route path="/emblemes/velours" element={<EmblemeVelour />} />
             </Route>
           </Routes>
         </BrowserRouter>
