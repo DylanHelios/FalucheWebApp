@@ -15,6 +15,7 @@ import InsignesElu from "./pages/insignes/élu/InsignesElu"
 import EmblemeSatin from "./pages/emblèmes/satin/EmblemeSatin"
 import EmblemeVelour from "./pages/emblèmes/velour/EmblemeVelour"
 import InsignesPotager from "./pages/potager/InsignePotager"
+import InsignesRegion from "./pages/insignes/region/InsignesRegion"
 
 export default function App() {
   return (
@@ -30,6 +31,7 @@ export default function App() {
               <Route path="/insignes/croix" element={<InsignesCroix />} />
               <Route path="/insignes/partenaire" element={<InsignesPartenaire />} />
               <Route path="/insignes/elu" element={<InsignesElu />} />
+              <Route path="/insignes/region" element={<InsignesRegion />} />
 
               <Route path="/emblemes/satin" element={<EmblemeSatin />} />
               <Route path="/emblemes/velours" element={<EmblemeVelour />} />
