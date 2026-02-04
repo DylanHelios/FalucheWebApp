@@ -104,9 +104,8 @@ export function AppSidebar() {
       url: "/potager",
       icon: Carrot,
       submenu: [
-        { label: t("sidebar.potager.vue_ensemble"), url: "/potager/vue-ensemble" },
-        { label: t("sidebar.potager.evenements"), url: "/potager/evenements" },
-        { label: t("sidebar.potager.galerie"), url: "/potager/galerie" },
+        { label: t("sidebar.potager.history"), url: "/potager/history" },
+        { label: t("sidebar.potager.potagerinsignes"), url: "/potager/insignes" },
       ],
     },
     {
