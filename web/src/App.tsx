@@ -7,6 +7,7 @@ import Layout from "./components/layout/Layout"
 import Home from "./pages/home/Home"
 import InsignesCirculaire from "./pages/insignes/circulaire/InsigneCirculaire"
 import InsignesAutodecerne from "./pages/insignes/autodecerne/InsigneAutodecerne"
+import InsignesCroix from "./pages/insignes/croix/InsigneCroix"
 
 export default function App() {
   return (
@@ -18,6 +19,7 @@ export default function App() {
               <Route path="/" element={<Home />} />
               <Route path="/insignes/circulaire" element={<InsignesCirculaire />} />
               <Route path="/insignes/autodecerne" element={<InsignesAutodecerne />} />
+              <Route path="/insignes/croix" element={<InsignesCroix />} />
             </Route>
           </Routes>
         </BrowserRouter>
