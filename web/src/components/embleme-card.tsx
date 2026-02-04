@@ -2,7 +2,28 @@ import { Badge } from "@/components/ui/badge";
 import { Card, CardContent } from "@/components/ui/card";
 import type { Embleme } from "@/types/Embleme";
 
+const couleurMap: Record<string, string> = {
+  "Argenté": "#C0C0C0",
+  "Saumon": "#FA8072",
+  "Orange": "#FFA500",
+  "Violet": "#8A2BE2",
+  "Blanc": "#FFFFFF",
+  "Rose": "#FFC0CB",
+  "Marron": "#8B4513",
+  "Rouge": "#FF0000",
+  "Bleu roy": "#4169E1",
+  "Vert": "#008000",
+  "Fuchsia": "#FF00FF",
+  "Bordeaux": "#800000",
+  "Vert clair": "#90EE90",
+  "Bleu": "#4040f8",
+  "Vert foncé": "#006400",
+  "Jaune": "#FFFF00",
+};
+
 export default function EmblemeCard({ embleme }: { embleme: Embleme }) {
+  const bgColor = embleme.Couleur ? couleurMap[embleme.Couleur] || "#888" : "#888";
+
   return (
     <Card className="overflow-hidden hover:shadow-lg transition-shadow">
       <CardContent className="p-4 flex flex-col gap-3 h-full">
@@ -27,7 +48,7 @@ export default function EmblemeCard({ embleme }: { embleme: Embleme }) {
             <Badge
               variant="outline"
               className="w-fit text-xs"
-              style={{ backgroundColor: embleme.Couleur, color: "#fff" }}
+              style={{ backgroundColor: bgColor, color: "#000" }}
             >
               Couleur : {embleme.Couleur}
             </Badge>
