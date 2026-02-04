@@ -110,6 +110,17 @@ export function AppSidebar() {
       ],
     },
     {
+      key: "ordres",
+      label: t("sidebar.ordres.label"),
+      url: "/ordres",
+      icon: BookOpen,
+      submenu: [
+        { label: "L'ordre des Tocards", url: "/ordres/tocards" },
+        { label: "L'Ordre des Géraldines", url: "/ordres/geraldines" },
+        { label: "L'Ordre des Lucioles", url: "/ordres/lucioles" },
+      ],
+    },
+    {
       key: "faluches",
       label: t("sidebar.faluches.label"),
       url: "/faluches",
@@ -143,6 +154,23 @@ export function AppSidebar() {
         { label: t("sidebar.armoiries.historique"), url: "/armoiries/historique" },
         { label: t("sidebar.armoiries.blasons"), url: "/armoiries/blasons" },
         { label: t("sidebar.armoiries.heraldiques"), url: "/armoiries/heraldiques" },
+      ],
+    },
+    {
+      key: "folklore",
+      label: t("sidebar.folklore.label"),
+      url: "/folklore",
+      icon: BookOpen,
+      submenu: [
+        { label: "L'Ordre Vénéré du Bitard", url: "/folklore/OrdreVenereBitard" },
+        { label: "Les Basochards", url: "/folklore/basochards" },
+        { label: "Les Gadzarts", url: "/folklore/gadzarts" },
+        { label: "La Blouse Troyenne", url: "/folklore/blouse" },
+        { label: t("sidebar.folklore.germany"), url: "/folklore/allemand" },
+        { label: t("sidebar.folklore.italy"), url: "/folklore/italie" },
+        { label: t("sidebar.folklore.belgium"), url: "/folklore/belgique" },
+        { label: t("sidebar.folklore.spain_portugal"), url: "/folklore/espagne_portugal" },
+        { label: t("sidebar.folklore.poland"), url: "/folklore/pologne" },
       ],
     },
   ]

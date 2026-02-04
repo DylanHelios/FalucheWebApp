@@ -1,17 +1,14 @@
 {
-  "sidebar": 
-  {
+  "sidebar": {
     "title": "La Faluche",
     "discover": "Découvrir",
-    "history": 
-    {
+    "history": {
       "label": "Histoire de la faluche",
       "origins": "Origines",
       "evolution": "Évolution",
       "traditions": "Traditions"
     },
-    "insignes": 
-    {
+    "insignes": {
       "label": "Insignes",
       "autodecerne": "Insignes autodécernés",
       "circulaire": "Insignes circulaires",
@@ -20,29 +17,25 @@
       "croix": "Insignes croix",
       "region": "Insignes régionaux"
     },
-    "emblemes": 
-    {
+    "emblemes": {
       "label": "Emblèmes",
       "satin": "Emblèmes Satin",
       "velours": "Emblèmes Velours",
       "autres": "Autres emblèmes"
     },
-    "couleurs": 
-    {
+    "couleurs": {
       "label": "Couleurs de filières",
       "sciences": "Sciences",
       "lettres": "Lettres",
       "commerce": "Commerce",
       "technique": "Technique"
     },
-    "potager": 
-    {
+    "potager": {
       "label": "Potager",
       "potagerinsignes": "Insignes du potager",
       "history": "Histoire du potager"
     },
-    "faluches": 
-    {
+    "faluches": {
       "label": "Différentes faluches",
       "lilloise": "Faluches Lilloise",
       "montpellieraines": "Faluches Montpellieraines",
@@ -51,30 +44,37 @@
       "marseillaise": "Faluches Marseillaise",
       "alsacienne": "Faluches Alsacienne"
     },
-    "rubans": 
-    {
+    "rubans": {
       "label": "Rubans",
       "couleurs": "Signification des couleurs",
       "port": "Port du ruban",
       "traditions": "Traditions"
     },
-    "armoiries": 
-    {
+    "armoiries": {
       "label": "Armoiries",
       "historique": "Historique",
       "blasons": "Blasons",
       "heraldiques": "Insignes héraldiques"
+    },
+    "folklore": {
+      "label": "Folklore",
+      "germany": "Allemagne",
+      "belgium": "Belgique",
+      "italy": "Italie",
+      "spain_portugal": "Espagne et Portugal",
+      "poland": "Pologne"
+    },
+    "ordres": {
+      "label": "Ordres"
     }
   },
-  "NoData":
-  {
+  "NoData": {
     "title": "Aucune donnée",
     "description": "Il n’y a rien à afficher pour le moment."
   },
-  "Error":
-  {
-      "unknown": "Une erreur inconnue est survenue",
-      "occurred": "Une erreur est survenue",
-      "retry": "Réessayer"
+  "Error": {
+    "unknown": "Une erreur inconnue est survenue",
+    "occurred": "Une erreur est survenue",
+    "retry": "Réessayer"
   }
 }
