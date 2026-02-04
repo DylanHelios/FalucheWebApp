@@ -1,6 +1,8 @@
+from dotenv import load_dotenv
 from neo4j import GraphDatabase
 import os
 
+load_dotenv()
 
 class ConnectionNeo4j:
     def __init__(self):
