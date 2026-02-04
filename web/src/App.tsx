@@ -5,11 +5,14 @@ import "./i18n"
 
 import Layout from "./components/layout/Layout"
 import Home from "./pages/home/Home"
+
 import InsignesCirculaire from "./pages/insignes/circulaire/InsigneCirculaire"
 import InsignesAutodecerne from "./pages/insignes/autodecerne/InsigneAutodecerne"
 import InsignesCroix from "./pages/insignes/croix/InsigneCroix"
 import InsignesPartenaire from "./pages/insignes/partenaire/InsignePartenaire"
 import InsignesElu from "./pages/insignes/élu/InsignesElu"
+
+import EmblemeSatin from "./pages/emblèmes/satin/EmblemeSatin"
 
 export default function App() {
   return (
@@ -19,11 +22,14 @@ export default function App() {
           <Routes>
             <Route element={<Layout />}>
               <Route path="/" element={<Home />} />
+        
               <Route path="/insignes/circulaire" element={<InsignesCirculaire />} />
               <Route path="/insignes/autodecerne" element={<InsignesAutodecerne />} />
               <Route path="/insignes/croix" element={<InsignesCroix />} />
               <Route path="/insignes/partenaire" element={<InsignesPartenaire />} />
               <Route path="/insignes/elu" element={<InsignesElu />} />
+
+              <Route path="/emblemes/satin" element={<EmblemeSatin />} />
             </Route>
           </Routes>
         </BrowserRouter>
