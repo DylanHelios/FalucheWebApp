@@ -10,6 +10,7 @@ import InsignesAutodecerne from "./pages/insignes/autodecerne/InsigneAutodecerne
 import InsignesCroix from "./pages/insignes/croix/InsigneCroix"
 import InsignesPartenaire from "./pages/insignes/partenaire/InsignePartenaire"
 import InsignesElu from "./pages/insignes/élu/InsignesElu"
+import InsignesRegion from "./pages/insignes/region/InsignesRegion"
 
 export default function App() {
   return (
@@ -24,6 +25,7 @@ export default function App() {
               <Route path="/insignes/croix" element={<InsignesCroix />} />
               <Route path="/insignes/partenaire" element={<InsignesPartenaire />} />
               <Route path="/insignes/elu" element={<InsignesElu />} />
+              <Route path="/insignes/regionaux" element={<InsignesRegion />} />
             </Route>
           </Routes>
         </BrowserRouter>
