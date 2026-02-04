@@ -71,7 +71,7 @@ export function AppSidebar() {
         { label: t("sidebar.insignes.autodecerne"), url: "/insignes/autodecerne" },
         { label: t("sidebar.insignes.circulaire"), url: "/insignes/circulaire" },
         { label: t("sidebar.insignes.croix"), url: "/insignes/croix" },
-        { label: t("sidebar.insignes.partenaire"), url: "/insignes/decerne-partenaire" },
+        { label: t("sidebar.insignes.partenaire"), url: "/insignes/partenaire" },
         { label: t("sidebar.insignes.elu"), url: "/insignes/elu" },
       ],
     },
