@@ -14,6 +14,7 @@ import InsignesElu from "./pages/insignes/élu/InsignesElu"
 
 import EmblemeSatin from "./pages/emblèmes/satin/EmblemeSatin"
 import EmblemeVelour from "./pages/emblèmes/velour/EmblemeVelour"
+import InsignesPotager from "./pages/potager/InsignePotager"
 
 export default function App() {
   return (
@@ -32,6 +33,8 @@ export default function App() {
 
               <Route path="/emblemes/satin" element={<EmblemeSatin />} />
               <Route path="/emblemes/velours" element={<EmblemeVelour />} />
+
+              <Route path="/potager/insignes" element={<InsignesPotager />} />
             </Route>
           </Routes>
         </BrowserRouter>

@@ -36,10 +36,9 @@
     },
     "potager": 
     {
-      "label": "The garden",
-      "vue_ensemble": "Overview",
-      "evenements": "Events",
-      "galerie": "Gallery"
+      "label": "Potager",
+      "potagerinsignes": "Potager Insignes",
+      "history": "Potager History"
     },
     "faluches": 
     {
