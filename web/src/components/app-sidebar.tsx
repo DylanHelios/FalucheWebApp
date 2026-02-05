@@ -60,6 +60,7 @@ export function AppSidebar() {
         { label: t("sidebar.history.origins"), url: "/histoire/origines" },
         { label: t("sidebar.history.evolution"), url: "/histoire/evolution" },
         { label: t("sidebar.history.traditions"), url: "/histoire/traditions" },
+        { label: "Bacchus", url: "/histoire/bacchus" },
       ],
     },
     {
