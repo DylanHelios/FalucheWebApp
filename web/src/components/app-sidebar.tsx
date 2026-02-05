@@ -140,11 +140,6 @@ export function AppSidebar() {
       label: t("sidebar.rubans.label"),
       url: "/rubans",
       icon: Ribbon,
-      submenu: [
-        { label: t("sidebar.rubans.couleurs"), url: "/rubans/couleurs" },
-        { label: t("sidebar.rubans.port"), url: "/rubans/port" },
-        { label: t("sidebar.rubans.traditions"), url: "/rubans/traditions" },
-      ],
     },
     {
       key: "heraldique",
