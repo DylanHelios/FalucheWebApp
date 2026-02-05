@@ -146,15 +146,11 @@ export function AppSidebar() {
       ],
     },
     {
-      key: "armoiries",
-      label: t("sidebar.armoiries.label"),
-      url: "/armoiries",
+      key: "heraldique",
+      label: t("sidebar.Heraldry.label"),
+      url: "/heraldique",
       icon: Landmark,
-      submenu: [
-        { label: t("sidebar.armoiries.historique"), url: "/armoiries/historique" },
-        { label: t("sidebar.armoiries.blasons"), url: "/armoiries/blasons" },
-        { label: t("sidebar.armoiries.heraldiques"), url: "/armoiries/heraldiques" },
-      ],
+      submenu: [],
     },
     {
       key: "folklore",
@@ -182,47 +178,71 @@ export function AppSidebar() {
           <h1 className="font-semibold text-lg">La Faluche</h1>
         </div>
       </SidebarHeader>
+
       <SidebarContent>
         <SidebarGroup>
           <SidebarGroupLabel>Découvrir</SidebarGroupLabel>
           <SidebarGroupContent>
             <SidebarMenu>
-              {items.map((item) => (
-                <Collapsible key={item.key} open={expandedItems.has(item.key)} onOpenChange={() => toggleItem(item.key)}>
-                  <SidebarMenuItem>
-                    <CollapsibleTrigger asChild>
+              {items.map((item) => {
+                const hasSubmenu = item.submenu && item.submenu.length > 0
+
+                if (!hasSubmenu) {
+                  return (
+                    <SidebarMenuItem key={item.key}>
                       <SidebarMenuButton asChild>
-                        <div className="flex items-center justify-between w-full cursor-pointer">
-                          <Link to={item.url} className="flex items-center gap-3 flex-1">
-                            <item.icon />
-                            <span>{item.label}</span>
-                          </Link>
-                          <ChevronRight
-                            className={`ml-auto h-4 w-4 transition-transform ${
-                              expandedItems.has(item.key) ? "rotate-90" : ""
-                            }`}
-                          />
-                        </div>
+                        <Link to={item.url} className="flex items-center gap-3">
+                          <item.icon />
+                          <span>{item.label}</span>
+                        </Link>
                       </SidebarMenuButton>
-                    </CollapsibleTrigger>
-                    <CollapsibleContent>
-                      <SidebarMenuSub>
-                        {item.submenu.map((subitem) => (
-                          <SidebarMenuSubItem key={subitem.url}>
-                            <SidebarMenuSubButton asChild>
-                              <Link to={subitem.url}>{subitem.label}</Link>
-                            </SidebarMenuSubButton>
-                          </SidebarMenuSubItem>
-                        ))}
-                      </SidebarMenuSub>
-                    </CollapsibleContent>
-                  </SidebarMenuItem>
-                </Collapsible>
-              ))}
+                    </SidebarMenuItem>
+                  )
+                }
+
+                return (
+                  <Collapsible
+                    key={item.key}
+                    open={expandedItems.has(item.key)}
+                    onOpenChange={() => toggleItem(item.key)}
+                  >
+                    <SidebarMenuItem>
+                      <CollapsibleTrigger asChild>
+                        <SidebarMenuButton asChild>
+                          <div className="flex items-center justify-between w-full cursor-pointer">
+                            <Link to={item.url} className="flex items-center gap-3 flex-1">
+                              <item.icon />
+                              <span>{item.label}</span>
+                            </Link>
+                            <ChevronRight
+                              className={`ml-auto h-4 w-4 transition-transform ${
+                                expandedItems.has(item.key) ? "rotate-90" : ""
+                              }`}
+                            />
+                          </div>
+                        </SidebarMenuButton>
+                      </CollapsibleTrigger>
+
+                      <CollapsibleContent>
+                        <SidebarMenuSub>
+                          {item.submenu.map((subitem) => (
+                            <SidebarMenuSubItem key={subitem.url}>
+                              <SidebarMenuSubButton asChild>
+                                <Link to={subitem.url}>{subitem.label}</Link>
+                              </SidebarMenuSubButton>
+                            </SidebarMenuSubItem>
+                          ))}
+                        </SidebarMenuSub>
+                      </CollapsibleContent>
+                    </SidebarMenuItem>
+                  </Collapsible>
+                )
+              })}
             </SidebarMenu>
           </SidebarGroupContent>
         </SidebarGroup>
       </SidebarContent>
+
       <SidebarFooter>
         <div className="flex items-center justify-between gap-3 w-full">
           <Avatar className="h-8 w-8">
@@ -235,6 +255,7 @@ export function AppSidebar() {
           </div>
         </div>
       </SidebarFooter>
+
       <SidebarRail />
     </Sidebar>
   )

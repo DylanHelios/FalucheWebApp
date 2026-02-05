@@ -19,6 +19,8 @@ import EmblemeVelour from "./pages/emblèmes/velour/EmblemeVelour"
 import Embleme from "./pages/emblèmes/Embleme"
 import HistoryPotager from "./pages/potager/history/HistoryPotager"
 
+import Heraldique from "./pages/heraldique/Heraldique"
+
 export default function App() {
   return (
     <ThemeProvider defaultTheme="dark" storageKey="vite-ui-theme">
@@ -41,6 +43,8 @@ export default function App() {
 
               <Route path="/potager/history" element={<HistoryPotager />} />
               <Route path="/potager/insignes" element={<InsignesPotager />} />
+
+              <Route path="/heraldique" element={<Heraldique />} />
             </Route>
           </Routes>
         </BrowserRouter>
