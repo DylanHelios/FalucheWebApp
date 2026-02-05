@@ -26,6 +26,7 @@ import Heraldique from "./pages/heraldique/Heraldique"
 
 import Bacchus from "./pages/histoire/bacchus/Bacchus"
 import Gambrinus from "./pages/histoire/gambrinus/Gambrinus"
+import ProvincesPage from "./pages/ruban/Region"
 
 export default function App() {
   return (
@@ -55,6 +56,7 @@ export default function App() {
               <Route path="/potager/insignes" element={<InsignesPotager />} />
 
               <Route path="/heraldique" element={<Heraldique />} />
+              <Route path="/rubans" element={<ProvincesPage />} />
             </Route>
           </Routes>
         </BrowserRouter>
