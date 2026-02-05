@@ -20,6 +20,7 @@ import Embleme from "./pages/emblèmes/Embleme"
 import HistoryPotager from "./pages/potager/history/HistoryPotager"
 
 import Heraldique from "./pages/heraldique/Heraldique"
+import Insigne from "./pages/insignes/Insigne"
 
 export default function App() {
   return (
@@ -30,6 +31,7 @@ export default function App() {
             <Route element={<Layout />}>
               <Route path="/" element={<Home />} />
         
+              <Route path="/insignes" element={<Insigne />} />
               <Route path="/insignes/circulaire" element={<InsignesCirculaire />} />
               <Route path="/insignes/autodecerne" element={<InsignesAutodecerne />} />
               <Route path="/insignes/croix" element={<InsignesCroix />} />
