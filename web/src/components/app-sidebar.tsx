@@ -84,7 +84,6 @@ export function AppSidebar() {
       submenu: [
         { label: t("sidebar.emblemes.satin"), url: "/emblemes/satin" },
         { label: t("sidebar.emblemes.velours"), url: "/emblemes/velours" },
-        { label: t("sidebar.emblemes.autres"), url: "/emblemes/autres" },
       ],
     },
     {
