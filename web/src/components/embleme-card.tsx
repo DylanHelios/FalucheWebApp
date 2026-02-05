@@ -8,7 +8,7 @@ const couleurMap: Record<string, string> = {
   "Orange": "#FFA500",
   "Violet": "#8A2BE2",
   "Blanc": "#FFFFFF",
-  "Rose": "#FFC0CB",
+  "Rose": "#ff00a2",
   "Marron": "#8B4513",
   "Rouge": "#FF0000",
   "Bleu roy": "#4169E1",

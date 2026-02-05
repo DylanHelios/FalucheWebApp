@@ -21,7 +21,7 @@ Beaux-Arts;Bleu;Satin;Palette & Pinceau;images/Emblème_Satin/Beaux-arts , Arts 
 Arts plastiques;Bleu;Satin;Palette & Pinceau;images/Emblème_Satin/Beaux-arts , Arts plastiques.png
 BUT;Blanc;Satin;Lettres « BUT »;images/Emblème_Satin/Lettres « BUT ».png
 DUT;Blanc;Satin;Lettres « DUT »;images/Emblème_Satin/Lettres « DUT ».png
-BTS;Blanc;Satin;Lettres « BTS »;images/Emblème_Satin/Lettres « BTS ».png
+BTS;Blanc;Satin;Lettres « BTS »;images/Emblème_Satin/Lettres « BTS » .png
 Bachelor;Blanc;Satin;Bêta;images/Emblème_Satin/Bachelor.png
 Classes préparatoires;Marron;Satin;Chouette bicéphale;images/Emblème_Satin/Classes préparatoires.png
 Communication;Suivant l'UFR de rattachement;Satin;Caducée de Mercure;images/Emblème_Satin/Communication.png
