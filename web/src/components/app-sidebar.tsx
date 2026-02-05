@@ -61,6 +61,7 @@ export function AppSidebar() {
         { label: t("sidebar.history.evolution"), url: "/histoire/evolution" },
         { label: t("sidebar.history.traditions"), url: "/histoire/traditions" },
         { label: "Bacchus", url: "/histoire/bacchus" },
+        { label: "Gambrinus", url: "/histoire/gambrinus" },
       ],
     },
     {
