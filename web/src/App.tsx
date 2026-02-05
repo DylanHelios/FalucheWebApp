@@ -6,22 +6,26 @@ import "./i18n"
 import Layout from "./components/layout/Layout"
 import Home from "./pages/home/Home"
 
+import Insigne from "./pages/insignes/Insigne"
 import InsignesCirculaire from "./pages/insignes/circulaire/InsigneCirculaire"
 import InsignesAutodecerne from "./pages/insignes/autodecerne/InsigneAutodecerne"
 import InsignesCroix from "./pages/insignes/croix/InsigneCroix"
 import InsignesPartenaire from "./pages/insignes/partenaire/InsignePartenaire"
 import InsignesElu from "./pages/insignes/élu/InsignesElu"
-import InsignesPotager from "./pages/potager/Insigne/InsignePotager"
 import InsignesRegion from "./pages/insignes/region/InsignesRegion"
 
+import Embleme from "./pages/emblèmes/Embleme"
 import EmblemeSatin from "./pages/emblèmes/satin/EmblemeSatin"
 import EmblemeVelour from "./pages/emblèmes/velour/EmblemeVelour"
-import Embleme from "./pages/emblèmes/Embleme"
+
+
 import HistoryPotager from "./pages/potager/history/HistoryPotager"
+import InsignesPotager from "./pages/potager/Insigne/InsignePotager"
 
 import Heraldique from "./pages/heraldique/Heraldique"
-import Insigne from "./pages/insignes/Insigne"
+
 import Bacchus from "./pages/histoire/bacchus/Bacchus"
+import Gambrinus from "./pages/histoire/gambrinus/Gambrinus"
 
 export default function App() {
   return (
@@ -33,6 +37,7 @@ export default function App() {
               <Route path="/" element={<Home />} />
 
               <Route path="/histoire/bacchus" element={<Bacchus />} />
+              <Route path="/histoire/gambrinus" element={<Gambrinus />} />
         
               <Route path="/insignes" element={<Insigne />} />
               <Route path="/insignes/circulaire" element={<InsignesCirculaire />} />
