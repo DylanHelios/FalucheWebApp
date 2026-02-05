@@ -1,30 +1,22 @@
-import { useTranslation } from "react-i18next"
-import { EmblemesList } from "./EmblemeList"
+import { InsigneCard } from "@/components/card-pins"
+import EmblemeVelour from "./velour/EmblemeVelour"
+import { Separator } from "@/components/ui/separator"
+import EmblemeSatin from "./satin/EmblemeSatin"
 
 export default function Embleme() {
-  const { t } = useTranslation()
 
   return (
     <>
-        <div className="p-6">
-        <div className="mb-8">
-            <h1 className="text-3xl font-bold mb-2">
-            {t("sidebar.emblemes.velours")}
-            </h1>
-        </div>
+       <InsigneCard>
+        <EmblemeVelour />
+      </InsigneCard>
 
-        <EmblemesList type="Velour" />
-        </div>
+      <Separator className="my-8" />
 
-        <div className="p-6">
-        <div className="mb-8">
-            <h1 className="text-3xl font-bold mb-2">
-            {t("sidebar.emblemes.satin")}
-            </h1>
-        </div>
-
-        <EmblemesList type="Satin" />
-        </div>
+      <InsigneCard>
+        <EmblemeSatin />
+      </InsigneCard>
     </>
   )
 }
+

@@ -21,9 +21,10 @@ export function EmblemesList({ type }: EmblemesListProps) {
 
   return (
     <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
-      {emblemesSorted.map((embleme) => (
-        <EmblemeCard key={embleme.Embleme} embleme={embleme} />
-      ))}
+      {emblemesSorted.map((embleme) => {
+        const uid = crypto.randomUUID();
+        return <EmblemeCard key={uid} embleme={embleme} />;
+      })}
     </div>
   );
 }
