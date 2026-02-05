@@ -1,5 +1,5 @@
+import { InsignesList } from "@/pages/insignes/InsignesList"
 import { useTranslation } from "react-i18next"
-import { InsignesList } from "../insignes/InsignesList"
 
 export default function InsignesPotager() {
   const { t } = useTranslation()

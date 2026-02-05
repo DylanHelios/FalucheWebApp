@@ -11,12 +11,13 @@ import InsignesAutodecerne from "./pages/insignes/autodecerne/InsigneAutodecerne
 import InsignesCroix from "./pages/insignes/croix/InsigneCroix"
 import InsignesPartenaire from "./pages/insignes/partenaire/InsignePartenaire"
 import InsignesElu from "./pages/insignes/élu/InsignesElu"
-import InsignesPotager from "./pages/potager/InsignePotager"
+import InsignesPotager from "./pages/potager/Insigne/InsignePotager"
 import InsignesRegion from "./pages/insignes/region/InsignesRegion"
 
 import EmblemeSatin from "./pages/emblèmes/satin/EmblemeSatin"
 import EmblemeVelour from "./pages/emblèmes/velour/EmblemeVelour"
 import Embleme from "./pages/emblèmes/Embleme"
+import HistoryPotager from "./pages/potager/history/HistoryPotager"
 
 export default function App() {
   return (
@@ -38,6 +39,7 @@ export default function App() {
               <Route path="/emblemes/satin" element={<EmblemeSatin />} />
               <Route path="/emblemes/velours" element={<EmblemeVelour />} />
 
+              <Route path="/potager/history" element={<HistoryPotager />} />
               <Route path="/potager/insignes" element={<InsignesPotager />} />
             </Route>
           </Routes>
