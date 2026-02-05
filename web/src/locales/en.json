@@ -50,11 +50,8 @@
       "port": "How to wear a ribbon",
       "traditions": "Traditions"
     },
-    "armoiries": {
-      "label": "Heraldry",
-      "historique": "History",
-      "blasons": "Coats of arms",
-      "heraldiques": "Heraldic insignes"
+    "Heraldry": {
+      "label": "Heraldry"
     },
     "folklore": {
       "label": "Folklore",

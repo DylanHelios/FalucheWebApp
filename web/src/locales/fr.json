@@ -50,11 +50,8 @@
       "port": "Port du ruban",
       "traditions": "Traditions"
     },
-    "armoiries": {
-      "label": "Armoiries",
-      "historique": "Historique",
-      "blasons": "Blasons",
-      "heraldiques": "Insignes héraldiques"
+    "Heraldry": {
+      "label": "Héraldique"
     },
     "folklore": {
       "label": "Folklore",

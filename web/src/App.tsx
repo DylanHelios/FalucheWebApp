@@ -18,6 +18,8 @@ import EmblemeSatin from "./pages/emblèmes/satin/EmblemeSatin"
 import EmblemeVelour from "./pages/emblèmes/velour/EmblemeVelour"
 import Embleme from "./pages/emblèmes/Embleme"
 
+import Heraldique from "./pages/heraldique/Heraldique"
+
 export default function App() {
   return (
     <ThemeProvider defaultTheme="dark" storageKey="vite-ui-theme">
@@ -39,6 +41,8 @@ export default function App() {
               <Route path="/emblemes/velours" element={<EmblemeVelour />} />
 
               <Route path="/potager/insignes" element={<InsignesPotager />} />
+
+              <Route path="/heraldique" element={<Heraldique />} />
             </Route>
           </Routes>
         </BrowserRouter>
