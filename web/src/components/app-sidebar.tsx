@@ -10,6 +10,7 @@ import {
   Ribbon,
   Landmark,
   ChevronRight,
+  Trophy,
 } from "lucide-react"
 import {
   Sidebar,
@@ -87,6 +88,12 @@ export function AppSidebar() {
         { label: t("sidebar.emblemes.satin"), url: "/emblemes/satin" },
         { label: t("sidebar.emblemes.velours"), url: "/emblemes/velours" },
       ],
+    },
+    {
+      key: "quiz",
+      label: t("sidebar.quiz.label"),
+      url: "/quiz",
+      icon: Trophy,
     },
     {
       key: "couleurs",

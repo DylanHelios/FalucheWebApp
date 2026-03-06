@@ -23,6 +23,9 @@
       "velours": "Emblèmes Velours",
       "autres": "Autres emblèmes"
     },
+    "quiz": {
+      "label": "Quiz"
+    },
     "couleurs": {
       "label": "Couleurs de filières",
       "sciences": "Sciences",

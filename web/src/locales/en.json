@@ -23,6 +23,9 @@
       "velours": "Velvet Emblem",
       "autres": "Other emblems"
     },
+    "quiz": {
+      "label": "Quiz"
+    },
     "couleurs": {
       "label": "Field colors",
       "sciences": "Sciences",
