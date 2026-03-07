@@ -17,7 +17,8 @@ import InsignesRegion from "./pages/insignes/region/InsignesRegion"
 import Embleme from "./pages/emblèmes/Embleme"
 import EmblemeSatin from "./pages/emblèmes/satin/EmblemeSatin"
 import EmblemeVelour from "./pages/emblèmes/velour/EmblemeVelour"
-import QuizPage from "./pages/quiz/Quiz"
+import QuizEmblemesPage from "./pages/quiz/QuizEmblemes"
+import QuizInsignesPage from "./pages/quiz/QuizInsignes"
 
 
 import HistoryPotager from "./pages/potager/history/HistoryPotager"
@@ -52,7 +53,9 @@ export default function App() {
               <Route path="/emblemes" element={<Embleme />} />
               <Route path="/emblemes/satin" element={<EmblemeSatin />} />
               <Route path="/emblemes/velours" element={<EmblemeVelour />} />
-              <Route path="/quiz" element={<QuizPage />} />
+              <Route path="/quiz" element={<QuizEmblemesPage />} />
+              <Route path="/quiz/emblemes" element={<QuizEmblemesPage />} />
+              <Route path="/quiz/insignes" element={<QuizInsignesPage />} />
 
               <Route path="/potager/history" element={<HistoryPotager />} />
               <Route path="/potager/insignes" element={<InsignesPotager />} />

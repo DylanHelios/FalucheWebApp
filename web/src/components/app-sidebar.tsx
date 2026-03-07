@@ -92,8 +92,12 @@ export function AppSidebar() {
     {
       key: "quiz",
       label: t("sidebar.quiz.label"),
-      url: "/quiz",
+      url: "/quiz/emblemes",
       icon: Trophy,
+      submenu: [
+        { label: "Quiz Emblèmes", url: "/quiz/emblemes" },
+        { label: "Quiz Insignes", url: "/quiz/insignes" },
+      ],
     },
     {
       key: "couleurs",
